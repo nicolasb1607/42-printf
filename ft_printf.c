@@ -6,11 +6,11 @@
 /*   By: nburat-d <nburat-d@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/12/07 17:11:05 by nburat-d          #+#    #+#             */
-/*   Updated: 2021/12/09 17:47:31 by nburat-d         ###   ########.fr       */
+/*   Updated: 2021/12/10 13:58:06 by nburat-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "./ft_printf.h"
 
 int ft_printf(const char *str, ...)
 {
