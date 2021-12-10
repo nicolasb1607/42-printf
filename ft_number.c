@@ -6,7 +6,7 @@
 /*   By: nburat-d <nburat-d@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/12/08 15:29:18 by nburat-d          #+#    #+#             */
-/*   Updated: 2021/12/10 16:50:52 by nburat-d         ###   ########.fr       */
+/*   Updated: 2021/12/10 17:29:49 by nburat-d         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -86,7 +86,7 @@ void	ft_putnbr_hexa_maj(unsigned int nbr, int *printed)
 	return ;
 }
 
-void	t_pointer(unsigned long int pointer, int *printed, int *init)
+void	ft_pointer(unsigned long int pointer, int *printed, int *init)
 {
 	char	*base;
 
